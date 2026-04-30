@@ -64,7 +64,7 @@ This project reflects the kind of work I deliver for real clients:
 
 ## 💼 Need a Website for Your Business?
 
-I build clean, professional websites for small and medium businesses — no templates, no page builders, just hand-crafted code tailored to your brand.
+I build clean, professional websites for small and medium businesses — no templates, no page builders, and no limitations. Every line of code is crafted around your brand, your goals, and your vision. The result is a site that looks unique, stands out from the competition, attracts more traffic, and converts visitors into real customers.
 
 📬 **Contact:** [github.com/ryanwdurham](https://github.com/ryanwdurham)
 
